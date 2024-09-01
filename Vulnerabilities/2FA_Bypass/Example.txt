@@ -1,4 +1,4 @@
-1. Brute Force Attacks on 2FA
+**1. Brute Force Attacks on 2FA**
 
 What is a Brute Force Attack?
 
