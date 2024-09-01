@@ -24,8 +24,10 @@ The script will check for these tools and install them automatically if they are
 
 ## Installation on Linux
 
-git clone https://github.com/yourusername/recon_tool.git
+Download auto_tool.sh
 
-cd recon_tool
+Chmod +x auto_tool.sh
 
-./auto_tool.sh
+sudo./auto_tool.sh
+
+(use sudo because it has running nmap all port scanning for that we want root permission)
